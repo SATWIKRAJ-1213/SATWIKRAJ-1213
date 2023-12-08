@@ -1,0 +1,4 @@
+label {
+    display: block; /* Display the label as a block element to place it on a new line */
+    margin-bottom: 5px; /* Add some bottom margin for spacing */
+}
